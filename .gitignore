@@ -1,5 +1,6 @@
 # Logs
 logs
+# Ignore all log files
 *.log
 
 # Runtime data
